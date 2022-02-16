@@ -1,0 +1,29 @@
+h1, h3, h4, p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: justify;
+}
+
+th, td{
+    color: rgb(255, 255, 255);
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.233);
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+button{
+    background-color: aliceblue;
+}
+
+
